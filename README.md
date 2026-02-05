@@ -1,6 +1,6 @@
 # 3D Spline Integration
 
-A Next.js project with Spline 3D scene integration using shadcn/ui, Tailwind CSS, and TypeScript.
+A Next.js project with Spline 3D scene integration using shadcn/ui, Tailwind CSS, and TypeScript. https://ayon1xw.me/3D
 
 ## 🚀 Quick Start
 
